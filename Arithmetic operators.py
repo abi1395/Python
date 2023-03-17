@@ -12,10 +12,10 @@ print(a*b)
 #division
 print(a/b)
 
-#modulus
+#modulus (remainder of a/b)
 print(a%b)
 
-#exponentiation
+#exponentiation (a sqaure * b sqaure)(81*9)
 print(a**b)
 
 #floor division

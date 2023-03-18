@@ -15,7 +15,7 @@ print(a/b)
 #modulus (remainder of a/b)
 print(a%b)
 
-#exponentiation (a sqaure * b sqaure)(81*9)
+#exponentiation (10*10*10*10*10) (5 times of 10)
 print(a**b)
 
 #floor division
